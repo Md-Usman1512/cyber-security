@@ -1,4 +1,4 @@
-# cyber-security
+# Information-security Project
 
 This project focuses on the acquisition and development of fundamental technical and professional skills for computer systems and information security. 
 
